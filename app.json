@@ -1,4 +1,6 @@
 {
+  "name": "lunchtime",
+  "displayName": "lunchtime",
   "expo": {
     "sdkVersion": "15.0.0"
   }
