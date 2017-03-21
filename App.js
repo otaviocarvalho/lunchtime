@@ -43,9 +43,11 @@ const state = {
         '40inha',
         'Bingo do 50',
         'Onze',
-        'Tiozinho',
+        'Tiozinho', //deprecated
         'Sabor Família',
-        'Palatu\'s'
+        'Palatu\'s',
+        '32',
+        '11'
     ]
 };
 
