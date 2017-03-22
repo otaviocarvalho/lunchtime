@@ -46,8 +46,7 @@ const state = {
         'Tiozinho', //deprecated
         'Sabor Família',
         'Palatu\'s',
-        '32',
-        '11'
+        '32'
     ]
 };
 
